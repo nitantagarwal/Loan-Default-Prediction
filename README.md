@@ -1,7 +1,7 @@
 # Loan-Default-Prediction
 
 # Description:
-Built a predicitve modelt to predict the probabilty that a customer would default on loan, so the bank could identify the applications to approve loan and reduce their NPA(Non-Performing Assets). The Dataset had 5,32,500 records and 45 variables. 
+Built a predicitve modelt to predict the probabilty and determine if that customer would default on loan, so the bank could identify the applications to approve loan and reduce their NPA(Non-Performing Assets). The Dataset had 5,32,500 records and 45 variables. 
 
 # Approach:
 1) Cleanned variables and converted to the required format
